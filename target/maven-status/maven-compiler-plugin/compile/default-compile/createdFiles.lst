@@ -1,0 +1,5 @@
+com\test\productApi\ProductApiApplication.class
+com\test\productApi\Product.class
+com\test\productApi\GreetingController.class
+com\test\productApi\Greeting.class
+com\test\productApi\RetailController.class
